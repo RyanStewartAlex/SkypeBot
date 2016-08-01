@@ -26,7 +26,7 @@ namespace SkypeBotConsole
         static string ytResult;
 
         const char prefix = '!';
-        const string ytAPIKey = "AIzaSyAaHig61lLWWh17cNrlKXra4O1MpItBjiE";
+        const string ytAPIKey = //removed for security reasons
 
         static void Main(string[] args)
         {
